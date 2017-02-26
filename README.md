@@ -1,5 +1,7 @@
 # Basic ACE Badge Rubric Readme File
-Rubric for the basic ACE club satisfactory participation completion badge. 
+Rubric for the basic ACE club satisfactory participation completion badge.
+
+![ACE Badge Logo](https://github.com/BEICBIM/basic_ACE_badge_rubric/blob/master/Logo.JPG)
 
 This rubric contains the badge logo, evaluative criteria, and quality definitions for students to earn the ACE club basic participation badge.
 
