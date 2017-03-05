@@ -7,7 +7,7 @@ badge.
 3.	ACE Team Member requirement
   * Demonstrate a working contribution to on an ACE Team during both the design and presentation portion (siged off by mentor).
 4.	Recruiting requirement:  
-  * Help promote ACE at your schools club rush event. 
+  * Represent the ACE club at your school's club rush event. 
   * Respond to this question in writing.  Imagine you are telling your best friend about the ACE Mentor Program and an exciting this year (for example an activity you did, trip you took, or interesting person you met).  In 500 or less words, what would you tell him or her?
 
 [License](https://github.com/BEICBIM/basic_ACE_badge_rubric/blob/master/License.md)
